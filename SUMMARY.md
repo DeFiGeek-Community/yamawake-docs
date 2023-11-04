@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Yamawake](README.md)
-  * [免責事項](yamawake/mian-ze-shi-xiang.md)
+  * [免責条項](yamawake/mian-ze-tiao-xiang.md)
   * [コントラクトアドレス](yamawake/kontorakutoadoresu.md)
   * [YMWK(Yamawake DAO Token)](yamawake/ymwk-yamawake-dao-token.md)
 * [仕様説明](shi-yang-shuo-ming.md)
