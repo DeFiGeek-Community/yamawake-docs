@@ -17,6 +17,7 @@
 * [ユーザーガイド](yzgaido/README.md)
   * [オークション主催者](yzgaido/kushon/README.md)
     * [ログイン](yzgaido/kushon/roguin.md)
+    * [オークションコントラクトのデプロイ](yzgaido/kushon/kushonkontorakutonodepuroi.md)
   * [オークション参加者](yzgaido/kushon-1.md)
 * [YMWK(Yamawake DAO Token)](ymwk-yamawake-dao-token.md)
 * [よくある質問](yokuaru.md)
