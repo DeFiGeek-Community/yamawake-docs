@@ -16,4 +16,13 @@
 
 <figure><img src="../../../.gitbook/assets/Group 1 (9).png" alt=""><figcaption></figcaption></figure>
 
-\- 「あなたのオークション一覧」に作成したオークションが「開催前」のステータスで表示されます
+各項目に必要な情報を入力できましたら、「オークション情報を保存」（下の画像の赤枠で囲まれたボタン）をクリックして下さい。
+
+<figure><img src="../../../.gitbook/assets/Group 1 (10).png" alt=""><figcaption></figcaption></figure>
+
+「あなたのオークション一覧」に作成したオークションが表示されれば完了です！🎉\
+新たに追加したオークションは、一覧の一番下に「開催前」のステータスで表示されます。\
+オークション情報を編集したい場合は、オークション名の右の「編集」をクリックして下さい。\
+オークションはご指定の日時になると、自動で開始、および、終了いたします。
+
+<figure><img src="../../../.gitbook/assets/Group 1 (11).png" alt=""><figcaption></figcaption></figure>
