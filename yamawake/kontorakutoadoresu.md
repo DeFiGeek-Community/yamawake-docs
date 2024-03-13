@@ -18,14 +18,14 @@ TemplateV1 : 0x59884000f564D752e89f6A2e0F77E3cacDD0eD1d
 
 ライセンス：GPL-3.0-or-later
 
-### Goerliテストネット <a href="#goerlitesutonetto" id="goerlitesutonetto"></a>
+### Sepoliaテストネット <a href="#goerlitesutonetto" id="goerlitesutonetto"></a>
 
-Factory：0xA7c550b30f1b96BA861580d6bCD23981D22e6fCd
+Factory：0x92B9B6384d295f22fdBc8Eb661D7D574B96D2E93
 
-Distributor : 0x966fcbaEB5d6C48EDfcFc6E232629a9a74396c48
+Distributor : 0x5846980E13B4F74F61A76877BD40102aBcF22EaF
 
-FeePool :&#x20;
+FeePool : 0x667Fe934b21A126A83A7f2B257E887668Fc9ab46
 
-TemplateV1 :&#x20;
+TemplateV1 : 0x95faEcF33aBB252f23d564E145F5e6225A7039f4
 
-​YMWK：0x4937989F78491bE421Fa7B0a3d97DC090E431468
+​YMWK：0xdE2832DE0b4C0b4b6742e60186E290622B2B766C
