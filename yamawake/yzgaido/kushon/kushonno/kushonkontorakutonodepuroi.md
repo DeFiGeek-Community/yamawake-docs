@@ -2,7 +2,7 @@
 
 まずは、ダッシュボードにて「オークションの作成」（下の画像の赤枠で囲まれたボタン）をクリックしましょう。
 
-<figure><img src="../../../.gitbook/assets/Group 1 (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Group 1 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 下の画像の赤い枠で囲まれた必要事項を選択・入力して、トークンの使用を承認します。\
 テンプレートは現在Template V1のみ選択可能になっており、今後増やしていく予定です。\
@@ -12,26 +12,26 @@
 最低調達額に達しないオークションは無効となりますのでご注意ください。\
 ※Braveブラウザをお使いの方はオークションへの割り当て、および、最低調達額の入力欄に直接数値を入力できない可能性がございます。その場合は、お手数ですが、入力欄の右側に付いている上下の矢印をクリックして数値を入力いただくか、Chromeなどの別のブラウザをお試し下さい（2024年3月時点でChromeでは正常に数値が入力できることを確認しております）。
 
-<figure><img src="../../../.gitbook/assets/Group 1 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Group 1 (4).png" alt=""><figcaption></figcaption></figure>
 
 承認するトークンの量を入力し、「次へ」の青いボタンを押して下さい。\
 「最大」を押すと今回のオークションで使用されるトークン量のみ入力されます。
 
-<figure><img src="../../../.gitbook/assets/スクリーンショット 2024-03-11 6.35.14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/スクリーンショット 2024-03-11 6.35.14.png" alt=""><figcaption></figcaption></figure>
 
 承認するトークン量、ガス代をご確認の上、「承認」の青いボタンを押して下さい。
 
-<figure><img src="../../../.gitbook/assets/スクリーンショット 2024-03-11 6.36.03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/スクリーンショット 2024-03-11 6.36.03.png" alt=""><figcaption></figcaption></figure>
 
 「オークションコントラクトをデプロイ」（下の画像の赤い枠で囲まれたボタン）をクリックして下さい。
 
-<figure><img src="../../../.gitbook/assets/Group 1 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Group 1 (5).png" alt=""><figcaption></figcaption></figure>
 
 最終確認画面で各種設定を再度確認し、問題がないようでしたら、「オークションコントラクトをデプロイ」（下の画像の赤い枠で囲まれたボタン）をクリックして下さい。
 
-<figure><img src="../../../.gitbook/assets/Group 1 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Group 1 (6).png" alt=""><figcaption></figcaption></figure>
 
 トランザクションが通り、オークションの画面が表示されれば、オークションコントラクトのデプロイ完了です！🎉\
 オークションはご指定の日時で、自動で開始、および、終了いたします。
 
-<figure><img src="../../../.gitbook/assets/スクリーンショット 2024-03-11 7.02.02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/スクリーンショット 2024-03-11 7.02.02.png" alt=""><figcaption></figcaption></figure>

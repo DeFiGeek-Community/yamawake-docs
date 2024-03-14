@@ -3,7 +3,7 @@
 トランザクションが承認されると、「オークション情報の入力」フォームの\
 「オークションコントラクトアドレス」が自動入力されます。
 
-<figure><img src="../../../.gitbook/assets/Group 1 (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Group 1 (8).png" alt=""><figcaption></figcaption></figure>
 
 「タイトル」、「説明」、「免責事項・利用規約」、「目標調達額」、「最大目標額」の必須項目をご入力ください。\
 「タイトル」、「説明」は、オークション参加者に分かりやすいものが良いかと思います。\
@@ -14,15 +14,15 @@
 これらの情報は後からでも編集可能です。入力をスキップされる場合は、「スキップする（後で入力する）」のボタンをクリックして下さい。\
 ※Braveブラウザをお使いの方は「目標調達額」、および、「最大調達額」の入力欄に直接数値を入力できない可能性がございます。その場合は、お手数ですが、入力欄の右側に付いている上下の矢印をクリックして数値を入力いただくか、Chromeなどの別のブラウザをお試し下さい（2024年3月時点でChromeでは正常に数値が入力できることを確認しております）。
 
-<figure><img src="../../../.gitbook/assets/Group 1 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Group 1 (9).png" alt=""><figcaption></figcaption></figure>
 
 各項目に必要な情報を入力できましたら、「オークション情報を保存」（下の画像の赤枠で囲まれたボタン）をクリックして下さい。
 
-<figure><img src="../../../.gitbook/assets/Group 1 (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Group 1 (10).png" alt=""><figcaption></figcaption></figure>
 
 「あなたのオークション一覧」に作成したオークションが表示されれば完了です！🎉\
 新たに追加したオークションは、一覧の一番下に「開催前」のステータスで表示されます。\
 オークション情報を編集したい場合は、オークション名の右の「編集」をクリックして下さい。\
 オークションはご指定の日時になると、自動で開始、および、終了いたします。
 
-<figure><img src="../../../.gitbook/assets/Group 1 (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Group 1 (11).png" alt=""><figcaption></figcaption></figure>

@@ -1,10 +1,18 @@
----
-description: 及びライセンス
----
+# コントラクト
 
-# コントラクトアドレス
+## コントラクト概要図
 
-## メインネット <a href="#meinnetto" id="meinnetto"></a>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+詳細な技術仕様は以下のページを参照してください。
+
+{% embed url="https://github.com/DeFiGeek-Community/yamawake/blob/main/doc/ja/index.md" %}
+
+
+
+## コントラクトアドレス
+
+### メインネット <a href="#meinnetto" id="meinnetto"></a>
 
 Factory：0x3Ee0952314739e2c4270F0ecE989cf73F5891243
 
