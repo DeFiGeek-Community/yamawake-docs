@@ -34,5 +34,4 @@ Yes, bidding support in ERC20 will be implemented in v2.
 
 If the participants' bids are small in relation to the total bid, it is possible that the allocated tokens will be zero, but this is highly unlikely in TemplateV1. Therefore, all participants are allocated some tokens.
 
-
 </details>

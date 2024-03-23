@@ -1,4 +1,4 @@
-# When the auction is successful
+# If the auction is successful
 
 An auction is successful if bids exceed the minimum raised amount set for the auction. Sales can be collected by clicking 'Collect ETH' from the owner menu on the auction details page. A platform fee of 1% will be deducted from the sales. An initial user reward score is awarded to the auction organiser based on the amount of sales at the time of sales withdrawal.
 

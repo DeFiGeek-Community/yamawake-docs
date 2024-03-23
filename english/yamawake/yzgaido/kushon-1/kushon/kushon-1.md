@@ -1,4 +1,4 @@
-# When the auction failed
+# If the auction failed
 
 First, click on the 'Dashboard' (the button framed in red in the image below) at the top of the Yamawake top screen.  
 

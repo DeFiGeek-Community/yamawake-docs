@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Yamawake](yamawake/README.md)
+* [Yamawake](README.md)
   * [Functions](yamawake/ji-neng/README.md)
     * [Template(Auction formats)](yamawake/ji-neng/tenpurtokushon/README.md)
       * [TemplateV1(Fair Auction)](yamawake/ji-neng/tenpurtokushon/templatev1barukukushon.md)

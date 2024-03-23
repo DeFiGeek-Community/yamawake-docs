@@ -20,6 +20,6 @@ If you are not connected Ethereum Mainnet then please switch the network.
 
 <figure><img src="../../../../../.gitbook/assets/スクリーンショット 2024-03-10 21.34.44 (1).png" alt=""><figcaption></figcaption></figure>
 
-The connection is complete when you see the address of your wallet in the top right-hand corner . 🎉
+The connection is complete when you see the address of your wallet in the top right-hand corner. 🎉
 
 <figure><img src="../../../../../.gitbook/assets/FireShot Capture 012 - Yamawake - sepolia.yamawake.xyz.png" alt=""><figcaption></figcaption></figure>

@@ -1,4 +1,4 @@
-# When the auction failed
+# If the auction failed
 
 If the total bid falls below the minimum raised amount set for the auction, the auction fails.  
 
