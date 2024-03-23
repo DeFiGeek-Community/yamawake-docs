@@ -1,11 +1,10 @@
 ---
-description: tldr: All use is at the own risk. No one can compensate the losses.
-
+description: tldr; All use is at the own risk. No one can compensate the losses.  
 ---
 
 # Disclaimers
 
-1. &#x20;Yamawake (hereinafter referred to as the Dapp) was built by a collection of volunteers, mainly an anonymous development team. There is no control responsibility or guarantee on the part of any specific person, organisation or any other entity by any definition.  
+1. Yamawake (hereinafter referred to as the Dapp) was built by a collection of volunteers, mainly an anonymous development team. There is no control responsibility or guarantee on the part of any specific person, organisation or any other entity by any definition.  
 
 2. All consequences of the use of the Dapp and related protocols etc. are the sole responsibility of the user.  
 
@@ -20,5 +19,3 @@ description: tldr: All use is at the own risk. No one can compensate the losses.
 7. Any upgrade or modification of the Dapp is subject to token voting governance by the Yamawake DAO Token (YMWK). All ideas and code suggestions are always welcome as OSS. 8.  
 
 8. Extended protocols interacting with the Dapp are outside the scope of the token voting governance in '7' and are free to be developed (e.g. Dapp extended by wrapping the contract).  
-
-
