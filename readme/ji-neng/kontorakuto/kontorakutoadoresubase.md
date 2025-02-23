@@ -14,8 +14,6 @@ FeePool : [0x3f4E4Dad0AC01Da50A774F3389b70506c96FfF2f](https://basescan.org/addr
 
 TemplateV1 : [0x03b24Fa2e286e26d98DeeF4Eb58d33f16748168A](https://basescan.org/address/0x3f4e4dad0ac01da50a774f3389b70506c96fff2f)
 
-​YMWK：
-
 ライセンス：GPL-3.0-or-later
 
 ### Base Sepoliaテストネット <a href="#goerlitesutonetto" id="goerlitesutonetto"></a>
@@ -28,4 +26,3 @@ FeePool : [0xcE476d7AF193404d75bc2d2a0D511c0a05a00404](https://sepolia.basescan.
 
 TemplateV1 : [0x1f5d6e912E617a82baD8b5939635cAa61f806490](https://sepolia.basescan.org/address/0x03a1ead2f81df2b48ce1b8778ecdaf85dcd4fbe3)
 
-​YMWK：
