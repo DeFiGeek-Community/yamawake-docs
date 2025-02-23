@@ -4,6 +4,10 @@ description: パーミッションレスオークションプラットフォー�
 
 # Yamawake
 
+[公式サイトへ](https://https/yamawake.xyz)
+
+[テストサイトへ](https://testnet.yamawake.xyz/)
+
 ## 🔹 Yamawakeとは何ですか？
 
 <mark style="color:red;">**パーミッションレスに（管理者の許可なく）トークンオークションの開催、参加**</mark>が行えるDappです。V1では**バルクオークション形式**に対応しており、今後様々なオークション形式が追加される予定です。

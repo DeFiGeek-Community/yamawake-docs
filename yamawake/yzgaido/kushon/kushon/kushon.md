@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # オークション成功時
 
 オークションに設定された最低調達額を上回る入札があった場合、オークションは成功します。オークション詳細ページのオーナーメニューから「ETHを回収する」をクリックして、売上を回収できます。プラットフォーム手数料として1%が売上から差し引かれます。売上引出し時にオークション主催者に対して売上額に応じて初期ユーザーリワードスコアが加算されます。

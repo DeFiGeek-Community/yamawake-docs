@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # オークション失敗時
 
 まずはYamawakeのトップ画面の上部にある「ダッシュボード」（下の画像の赤枠で囲まれたボタン）をクリックして下さい。

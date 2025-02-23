@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # ログイン
 
 まずは、[Yamawake](https://yamawake.xyz/)にアクセスし、右上の「ウォレットの接続」（下の画像の赤枠で囲まれたボタン）を\

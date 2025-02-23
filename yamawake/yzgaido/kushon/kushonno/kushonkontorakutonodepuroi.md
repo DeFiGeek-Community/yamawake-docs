@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # オークションコントラクトのデプロイ
 
 まずは、ダッシュボードにて「オークションの作成」（下の画像の赤枠で囲まれたボタン）をクリックしましょう。

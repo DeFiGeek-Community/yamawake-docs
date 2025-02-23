@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # YMWK(Yamawake DAO Token)
 
 ### <mark style="color:blue;">YMWKとは？</mark> <a href="#usercontent-gai-yao" id="usercontent-gai-yao"></a>

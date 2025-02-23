@@ -1,10 +1,9 @@
 ---
-description: オークション主催者向け
 layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -13,5 +12,5 @@ layout:
     visible: true
 ---
 
-# オークション主催者
+# コントラクト
 

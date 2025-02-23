@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 入札
 
 ウォレット接続後、トップページ右上の「すべてのオークションを見る」（下の画像の赤枠で囲まれたボタン）をクリックして下さい。

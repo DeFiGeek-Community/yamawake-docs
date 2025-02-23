@@ -1,18 +1,10 @@
-# コントラクト
+---
+description: Ethereum
+---
 
-## コントラクト概要図
+# コントラクトアドレス(Ethereum)
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-詳細な技術仕様は以下のページを参照してください。
-
-{% embed url="https://github.com/DeFiGeek-Community/yamawake/blob/main/doc/ja/index.md" %}
-
-
-
-## コントラクトアドレス
-
-### メインネット <a href="#meinnetto" id="meinnetto"></a>
+### Ethereum メインネット <a href="#meinnetto" id="meinnetto"></a>
 
 Factory：[0x3Ee0952314739e2c4270F0ecE989cf73F5891243](https://etherscan.io/address/0x3ee0952314739e2c4270f0ece989cf73f5891243)
 
@@ -26,7 +18,7 @@ TemplateV1 : [0x59884000f564D752e89f6A2e0F77E3cacDD0eD1d](https://etherscan.io/a
 
 ライセンス：GPL-3.0-or-later
 
-### Sepoliaテストネット <a href="#goerlitesutonetto" id="goerlitesutonetto"></a>
+### Ethereum Sepoliaテストネット <a href="#goerlitesutonetto" id="goerlitesutonetto"></a>
 
 Factory：[0x92B9B6384d295f22fdBc8Eb661D7D574B96D2E93](https://sepolia.etherscan.io/address/0x92b9b6384d295f22fdbc8eb661d7d574b96d2e93)
 
@@ -34,6 +26,6 @@ Distributor : [0x5846980E13B4F74F61A76877BD40102aBcF22EaF](https://sepolia.ether
 
 FeePool : [0x667Fe934b21A126A83A7f2B257E887668Fc9ab46](https://sepolia.etherscan.io/address/0x667fe934b21a126a83a7f2b257e887668fc9ab46)
 
-TemplateV1 : [0x95faEcF33aBB252f23d564E145F5e6225A7039f4](https://sepolia.etherscan.io/address/0x95faecf33abb252f23d564e145f5e6225a7039f4)
+TemplateV1 : [0x274951d3Bf6f4C2121C99A3eed7dD0034AD1e2e5](https://sepolia.etherscan.io/address/0x274951d3bf6f4c2121c99a3eed7dd0034ad1e2e5)
 
 ​YMWK：[0xdE2832DE0b4C0b4b6742e60186E290622B2B766C](https://sepolia.etherscan.io/address/0xde2832de0b4c0b4b6742e60186e290622b2b766c)
