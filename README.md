@@ -4,7 +4,7 @@ description: パーミッションレスオークションプラットフォー�
 
 # Yamawake
 
-[公式サイトへ](https://https/yamawake.xyz)
+[公式サイトへ](https://yamawake.xyz/)
 
 [テストサイトへ](https://testnet.yamawake.xyz/)
 
