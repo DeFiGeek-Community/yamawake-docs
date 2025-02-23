@@ -1,9 +1,10 @@
 ---
+description: 売上の引出し、トークンの回収
 layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -14,4 +15,3 @@ layout:
 
 # オークション終了後
 
-売上の引出し、トークンの回収
