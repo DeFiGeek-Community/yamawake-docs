@@ -32,7 +32,7 @@ DEXリンク：
 
 ## <mark style="color:blue;">veYMWKとは？</mark>
 
-veYMWKとはYMWKをロックすることで得られる転送不可のトークンです。
+veYMWKとは、YMWKをロックすることで得られる転送不可のトークンです。
 
 最長4年のロックで 1 YMWK ＝ 1 veYMWKです。
 
@@ -46,6 +46,6 @@ veYMWKとはYMWKをロックすることで得られる転送不可のトーク�
 
 プロトコルfeeの獲得
 
-$YMWKリワードの獲得
+YMWKリワードの獲得
 
 その他拡張予定
