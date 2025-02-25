@@ -68,7 +68,7 @@ IBAO(Initial Bulk Auction Offering)テンプレート
 
 プロジェクト概要など、オークションに関する情報です。オークションのコントラクトと紐づけてオフチェーンに保存されます。
 
-###
+
 
 ### 技術仕様
 
@@ -76,7 +76,7 @@ IBAO(Initial Bulk Auction Offering)テンプレート
 
 [https://github.com/DeFiGeek-Community/yamawake/blob/main/doc/ja/Template/V1/index.md](https://github.com/DeFiGeek-Community/yamawake/blob/main/doc/ja/Template/V1/index.md)
 
-###
+
 
 ### オークションフロー
 

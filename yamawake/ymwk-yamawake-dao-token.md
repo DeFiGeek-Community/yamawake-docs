@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# YMWK(Yamawake DAO Token)
+# YMWK（Yamawake DAO Token）
 
 ### <mark style="color:blue;">YMWKとは？</mark> <a href="#usercontent-gai-yao" id="usercontent-gai-yao"></a>
 
@@ -34,9 +34,9 @@ DEXリンク：
 
 veYMWKとはYMWKをロックすることで得られる転送不可のトークンです。
 
-最長4年のロックで1YMWK＝1veYMWKです。
+最長4年のロックで 1 YMWK ＝ 1 veYMWKです。
 
-1年ロックの場合は1YMWK＝0.25veYMWKです。
+1年ロックの場合は 1 YMWK ＝ 0.25 veYMWKです。
 
 時間の経過で減衰していきます。
 
@@ -46,6 +46,6 @@ veYMWKとはYMWKをロックすることで得られる転送不可のトーク�
 
 プロトコルfeeの獲得
 
-YMWKリワードの獲得
+$YMWKリワードの獲得
 
 その他拡張予定
