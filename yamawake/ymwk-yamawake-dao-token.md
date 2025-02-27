@@ -26,9 +26,9 @@ DEXリンク：
 
 ### <mark style="color:blue;">アロケーション</mark>
 
-<figure><img src="../.gitbook/assets/chart.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/スクリーンショット 2025-02-27 21.26.24.png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="224.33333333333331" align="center">割合(%)</th><th align="center">名目</th><th align="center">備考</th></tr></thead><tbody><tr><td align="center">5</td><td align="center">開発者報酬</td><td align="center"></td></tr><tr><td align="center">5</td><td align="center">初期インベスター</td><td align="center">TXJPホルダーへのエアドロップ</td></tr><tr><td align="center">5</td><td align="center">DEX LP</td><td align="center">Uniswap v3 YMWK-ETH Pool $0.1~$1</td></tr><tr><td align="center">5</td><td align="center">コミュニティトレジャリー</td><td align="center">defigeek.eth</td></tr><tr><td align="center">5</td><td align="center">初期ユーザーリワード</td><td align="center"></td></tr><tr><td align="center">10</td><td align="center">CurveLP用リワード</td><td align="center">年次2%ベスティング5年間</td></tr><tr><td align="center">10</td><td align="center">フェーズ2投資家用</td><td align="center">クリフ2年、3年目解放</td></tr><tr><td align="center">55</td><td align="center">ユーザーリワード</td><td align="center">初年度5.5% 年次10%逓減</td></tr></tbody></table>
+<table><thead><tr><th width="224.33333333333331" align="center">割合(%)</th><th align="center">名目</th><th align="center">備考</th></tr></thead><tbody><tr><td align="center">5</td><td align="center">開発者報酬</td><td align="center"></td></tr><tr><td align="center">5</td><td align="center">初期インベスター</td><td align="center">TXJPホルダーへのエアドロップ</td></tr><tr><td align="center">5</td><td align="center">DEX LP及びYamawakeでの<br>オークション</td><td align="center">Curve、Uniswapにて<br>YMWK-ETH Pool 設置<br>オークションは2回</td></tr><tr><td align="center">5</td><td align="center">コミュニティトレジャリー</td><td align="center">defigeek.eth</td></tr><tr><td align="center">5</td><td align="center">初期ユーザーリワード</td><td align="center"></td></tr><tr><td align="center">10</td><td align="center">CurveLP用リワード</td><td align="center">年次2%ベスティング5年間</td></tr><tr><td align="center">10</td><td align="center">フェーズ2投資家用</td><td align="center">クリフ2年、3年目解放</td></tr><tr><td align="center">55</td><td align="center">ユーザーリワード</td><td align="center">初年度5.5% 年次10%逓減</td></tr></tbody></table>
 
 ## <mark style="color:blue;">veYMWKとは？</mark>
 
