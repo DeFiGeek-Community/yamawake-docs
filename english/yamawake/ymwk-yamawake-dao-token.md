@@ -2,11 +2,12 @@
 
 ### <mark style="color:blue;">What is YMWK？</mark> <a href="#usercontent-gai-yao" id="usercontent-gai-yao"></a>
 
-ERC20 token based on philosophy of Curve Dao Token. Initial issuance is 450,000,000, with 55,000,000 issuance in the first year and annual diminishing issuance of 10% over 235 years. Max supply is 1,000,000,000.
+YMWK(Yamawake DAO Token) is utility token embeded to Yamawake. Initial issuance is 450,000,000, with 55,000,000 issuance in the first year and annual diminishing issuance of 10% over 235 years. Max supply is 1,000,000,000.
 
 Ticker：YMWK
 
-Token Address：0x15Dac05C93e1c5F31a29547340997BA9f6ec4F87
+Token Address：0x15Dac05C93e1c5F31a29547340997BA9f6ec4F87\
+[https://etherscan.io/address/0x15dac05c93e1c5f31a29547340997ba9f6ec4f87](https://etherscan.io/address/0x15dac05c93e1c5f31a29547340997ba9f6ec4f87)
 
 DEX link：TBA
 
@@ -18,22 +19,18 @@ DEX link：TBA
 
 ## <mark style="color:blue;">What is veYMWK?</mark>
 
-A veYMWK is a non-transferable token obtained by locking a YMWK.  
+A veYMWK is a non-transferable token obtained by locking a YMWK.
 
-1 YMWK = 1 veYMWK for a lock of up to 4 years.  
+1 YMWK = 1 veYMWK for a lock of up to 4 years.
 
-For a one-year lock, 1YMWK = 0.25 veYMWK.  
+For a one-year lock, 1YMWK = 0.25 veYMWK.
 
-Decays over time.  
+Decays over time.
 
-The lock period can be extended to a maximum of four years at any time, but cannot be shortened or cancelled.  
+The lock period can be extended to a maximum of four years at any time, but cannot be shortened or cancelled.
 
 ### <mark style="color:blue;">veYMWK utility</mark>
 
-Protocol fee  
-YMWK rewards  
+Protocol fee\
+YMWK rewards\
 Others TBD
-
-
-
-
