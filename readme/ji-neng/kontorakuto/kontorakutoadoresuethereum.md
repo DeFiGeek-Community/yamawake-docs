@@ -48,7 +48,7 @@ Distributor : [0xfd29B29e26678B29Be02C82161490E9a3Ed5971d](https://sepolia.ether
 
 FeePool : [0x667Fe934b21A126A83A7f2B257E887668Fc9ab46](https://sepolia.etherscan.io/address/0x667fe934b21a126a83a7f2b257e887668fc9ab46)
 
-TemplateV1 : [0x274951d3Bf6f4C2121C99A3eed7dD0034AD1e2e5](https://sepolia.etherscan.io/address/0x274951d3bf6f4c2121c99a3eed7dd0034ad1e2e5)
+TemplateV1 : [0xD89DAB936476A4b480Be61b5B1597D72823c9206](https://sepolia.etherscan.io/address/0xd89dab936476a4b480be61b5b1597d72823c9206)
 
 TemplateV1\_5 : [0x8b1F7258277a40E8CdA3D987A1Bb0Bd2d6cF4A2B](https://sepolia.etherscan.io/address/0x8b1f7258277a40e8cda3d987a1bb0bd2d6cf4a2b)
 
@@ -62,4 +62,4 @@ RewardGaugeV1 : [0xA3D046388C4bfc004F16734e2B80218Eb0E588c9](https://sepolia.eth
 
 VotingEscrow : [0x4c83C788fe66b4c848e381f2894C1B62B411a1F2](https://sepolia.etherscan.io/address/0x4c83c788fe66b4c848e381f2894c1b62b411a1f2)
 
-​YMWK：[0xdE2832DE0b4C0b4b6742e60186E290622B2B766C](https://sepolia.etherscan.io/address/0xde2832de0b4c0b4b6742e60186e290622b2b766c)
+​YMWK：[0x5055d837992bE5e1fE193F180B22B232099017d8](https://sepolia.etherscan.io/token/0x5055d837992be5e1fe193f180b22b232099017d8)

@@ -40,4 +40,22 @@ WETH、LINKを選択する場合は、残高の欄に手数料が支払える量
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-また、L1へのスコア移行と同時にリワードを請求する
+また、L1へのスコア移行と同時にリワードを請求するか、
+
+L1へのスコア移行のみ行い、リワードの請求は別のタイミングで行うかを選択してください。
+
+L1へのスコア移行と同時にリワードを請求する場合は、右端のトグルスイッチをONに、
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+L1へのスコア移行のみを行う場合は、トグルスイッチをOFFにしてください。
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+諸々の選択が済みましたら、最後に一番下のボタンを押してください。
+
+メインネットでのリワードの請求方法は、[こちら](ethereumdenokushon.md)を参照してください。
+
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
