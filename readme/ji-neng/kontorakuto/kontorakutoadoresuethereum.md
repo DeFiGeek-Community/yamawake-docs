@@ -22,7 +22,7 @@ Distributor : [0x3D095553fE2A3b138B31f9d47a26e2aDf340c6a5](https://etherscan.io/
 
 FeePool : [0x9823E00b87367bB7B461Bd5eC22Dc1eB0064c869](https://etherscan.io/address/0x9823e00b87367bb7b461bd5ec22dc1eb0064c869)
 
-TemplateV1 : [0x59884000f564D752e89f6A2e0F77E3cacDD0eD1d](https://etherscan.io/address/0x59884000f564d752e89f6a2e0f77e3cacdd0ed1d)
+TemplateV1 : [0x526b335a114fDA6CAefa8F74A32d874fb8b0d646](https://etherscan.io/address/0x526b335a114fda6caefa8f74a32d874fb8b0d646)
 
 TemplateV1\_5 : [0x7cfB70dd50bAa538bfCd1749F56E8aE0563C96F1](https://etherscan.io/address/0x7cfb70dd50baa538bfcd1749f56e8ae0563c96f1)
 
