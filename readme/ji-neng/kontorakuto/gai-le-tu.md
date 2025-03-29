@@ -16,7 +16,7 @@ layout:
 
 ## コントラクト概要図
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 詳細な技術仕様は以下のページを参照してください。
 

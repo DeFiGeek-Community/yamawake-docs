@@ -50,11 +50,11 @@ L1へのスコア移行と同時にリワードを請求する場合は、右端
 
 （デフォルトではONになっています）
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 L1へのスコア移行のみを行う場合は、トグルスイッチをOFFにしてください。
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 諸々の選択が済みましたら、最後に一番下のボタンを押してください。
 
