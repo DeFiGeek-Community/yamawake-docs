@@ -38,4 +38,4 @@ RPCの設定がされていない場合は、以下のような画面が表示�
 
 ブロックエクスプローラーのURL：　[https://basescan.org/](https://basescan.org/)
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>

@@ -24,7 +24,7 @@ layout:
 
 ダッシュボードのユーザーリワードのエリアに請求可能額が表示されます（下の画像の10.000YMWK）
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 YMWKをウォレットに追加していない場合は、「YMWKをウォレットに追加」のボタンを押してください。
 

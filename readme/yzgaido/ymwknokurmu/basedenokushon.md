@@ -24,7 +24,7 @@ layout:
 
 ダッシュボードのユーザーリワードのエリアに請求可能額が表示されます（下の画像の10.000YMWK）
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Baseでのリワードは、Ethereumメインネットで請求が可能です。
 
@@ -40,7 +40,7 @@ CCIPを使用して、Baseのスコアをメインネットに移行します。
 
 表示されていない場合は、承認は済んでいるので、次のステップにお進みください。
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 L1へのスコア移行と同時にリワードを請求するか、
 
@@ -50,17 +50,17 @@ L1へのスコア移行と同時にリワードを請求する場合は、右端
 
 （デフォルトではONになっています）
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 L1へのスコア移行のみを行う場合は、トグルスイッチをOFFにしてください。
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 諸々の選択が済みましたら、最後に一番下のボタンを押してください。
 
 メインネットでのリワードの請求方法は、[こちら](ethereumdenokushon.md)を参照してください。
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 IN\_PROGRESSの表示の間は、しばらくお待ちください。
 
