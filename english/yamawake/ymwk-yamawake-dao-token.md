@@ -9,13 +9,13 @@ Ticker：YMWK
 Token Address：0x15Dac05C93e1c5F31a29547340997BA9f6ec4F87\
 [https://etherscan.io/address/0x15dac05c93e1c5f31a29547340997ba9f6ec4f87](https://etherscan.io/address/0x15dac05c93e1c5f31a29547340997ba9f6ec4f87)
 
-DEX link：TBA
+[DEX link](../readme/dex-liquidity.md)
 
 ### <mark style="color:blue;">Allocation</mark>
 
 <figure><img src="../.gitbook/assets/chart.png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="224.33333333333331" align="center">Percentage(%)</th><th align="center">For</th><th align="center">Note</th></tr></thead><tbody><tr><td align="center">5</td><td align="center">Developer Incentives</td><td align="center"></td></tr><tr><td align="center">5</td><td align="center">Initial investors</td><td align="center">Airdrop to TXJP holders</td></tr><tr><td align="center">5</td><td align="center">DEX LP & Auctions</td><td align="center">TXJP pair on Uniswap & Curve, two public auctions</td></tr><tr><td align="center">5</td><td align="center">Community Treasury</td><td align="center">safe.defigeek.eth</td></tr><tr><td align="center">5</td><td align="center">Early User Rewards</td><td align="center"></td></tr><tr><td align="center">10</td><td align="center">CurveLP Budget</td><td align="center">5 years vesting</td></tr><tr><td align="center">10</td><td align="center">Phase 2 investors</td><td align="center">3 years vesting with 2 year cliff</td></tr><tr><td align="center">55</td><td align="center">User Rewards</td><td align="center">5.5% at year 1. diminishing 10% p.a.(i.e.4.95% for year 2) for 234 years</td></tr></tbody></table>
+<table><thead><tr><th width="224.33333333333331" align="center">Percentage(%)</th><th align="center">For</th><th align="center">Note</th></tr></thead><tbody><tr><td align="center">5</td><td align="center">Developer Incentives</td><td align="center"></td></tr><tr><td align="center">5</td><td align="center">Initial investors</td><td align="center">Airdrop to TXJP holders</td></tr><tr><td align="center">5</td><td align="center">DEX LP &#x26; Auctions</td><td align="center">TXJP pair on Uniswap &#x26; Curve, two public auctions</td></tr><tr><td align="center">5</td><td align="center">Community Treasury</td><td align="center">safe.defigeek.eth</td></tr><tr><td align="center">5</td><td align="center">Early User Rewards</td><td align="center"></td></tr><tr><td align="center">10</td><td align="center">CurveLP Budget</td><td align="center">5 years vesting</td></tr><tr><td align="center">10</td><td align="center">Phase 2 investors</td><td align="center">3 years vesting with 2 year cliff</td></tr><tr><td align="center">55</td><td align="center">User Rewards</td><td align="center">5.5% at year 1. diminishing 10% p.a.(i.e.4.95% for year 2) for 234 years</td></tr></tbody></table>
 
 ## <mark style="color:blue;">What is veYMWK?</mark>
 

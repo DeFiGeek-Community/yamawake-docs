@@ -23,6 +23,7 @@
       * [After the Auction](yamawake/yzgaido/kushon-1/kushon/README.md)
         * [If the Auction is successful](yamawake/yzgaido/kushon-1/kushon/kushon.md)
         * [If the Auction failed](yamawake/yzgaido/kushon-1/kushon/kushon-1.md)
+  * [DEX Liquidity](readme/dex-liquidity.md)
   * [YMWK(Yamawake DAO Token)](yamawake/ymwk-yamawake-dao-token.md)
   * [Early User Rewards](yamawake/yzariwdo.md)
   * [FAQ](yamawake/yokuaru.md)
