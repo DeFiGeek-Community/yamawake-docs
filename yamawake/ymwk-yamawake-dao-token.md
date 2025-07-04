@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # YMWK（Yamawake DAO Token）
 
 ### <mark style="color:blue;">YMWKとは？</mark> <a href="#usercontent-gai-yao" id="usercontent-gai-yao"></a>
@@ -21,8 +7,6 @@ Yamawake に付随するユーティリティトークン（ERC20）です。初
 ティッカー：YMWK
 
 コントラクトアドレス：[0x15Dac05C93e1c5F31a29547340997BA9f6ec4F87](https://etherscan.io/address/0x15dac05c93e1c5f31a29547340997ba9f6ec4f87)
-
-DEXリンク：
 
 ### <mark style="color:blue;">アロケーション</mark>
 
