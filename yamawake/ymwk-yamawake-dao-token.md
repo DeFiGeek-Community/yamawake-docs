@@ -8,6 +8,8 @@ Yamawake に付随するユーティリティトークン（ERC20）です。初
 
 コントラクトアドレス：[0x15Dac05C93e1c5F31a29547340997BA9f6ec4F87](https://etherscan.io/address/0x15dac05c93e1c5f31a29547340997ba9f6ec4f87)
 
+[DEXリンク](../readme/dexno.md)
+
 ### <mark style="color:blue;">アロケーション</mark>
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2025-02-27 21.26.24.png" alt=""><figcaption></figcaption></figure>
